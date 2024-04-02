@@ -1,0 +1,71 @@
+{
+    "categories":[ {
+
+        "name": "Women Dresses",
+        "subcategories": [
+            "Events & Wedding",
+            "Tops",
+            "Watches"
+        ]
+    },
+    {
+        "name": "Men Dresses",
+        "subcategories": [
+            "Jackets & Outwear",
+            "Formal Dresses",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Computer & Accessories",
+        "subcategories": [
+            "Laptops",
+            "Computers",
+            "Customised Equipments"
+        ]
+    },
+    {
+        "name": "Automobiles",
+        "subcategories": [
+            "Bikes",
+            "Cars",
+            "Trucks"
+        ]
+    },
+    {
+        "name": "Sports",
+        "subcategories": [
+            "Cycling",
+            "Sneakers",
+            "Swimming"
+        ]
+    },
+    {
+        "name": "Jewellery",
+        "subcategories": [
+            "Necklaces",
+            "Gold",
+            "Earings"
+        ]
+    },
+    {
+        "name": "Mobiles & Tablets",
+        "subcategories": [
+            "Mobiles",
+            "Tablets",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Furniture",
+        "subcategories": [
+            "Sofa Set",
+            "Bed Set",
+            "Dining Set"
+        ]
+    }
+]
+
+      
+    
+}

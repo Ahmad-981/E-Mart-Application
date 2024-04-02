@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256800903474",
+    "project_id": "my-daraz-cec90",
+    "storage_bucket": "my-daraz-cec90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256800903474:android:370d5169d81331abcb072b",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuIJYRIADjXPWlzVbdPN14cNMK2KqLmok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
